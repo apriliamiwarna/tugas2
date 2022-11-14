@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+header{
+	background-image: url(bg2.jpg);
+	height: 700px;
+	background-size: cover;
+	background-position: center;
+	
+}	
+content{
+			background-color:bisque;
+			width: 100%;
+			min-height: 700px;
+			float: left;
+			padding-left: 20px;
+
+	}
+	menu{
+		background-color:#778899;
+		width: 100%;
+			min-height: 700px;
+			float: left;
+			padding-left: 20px;
+	}
+	footer{
+		background-color:#ffb6c1;
+			width: 100%;
+			min-height: 700px;
+			float: left;
+			padding-left: 20px;
+
+	}
